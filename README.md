@@ -48,7 +48,7 @@ A Python-based CLI application to manage student records, track attendance, reco
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Saumya-ambar/your-repo-name
+git clone https://github.com/saumyaambar/your-repo-name
 cd your-repo-name
 ```
 
